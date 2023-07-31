@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1106" height="294" viewBox="0 0 1106 294">
+  <defs>
+    <clipPath id="clip-LOGO_Main_2">
+      <rect width="1106" height="294"/>
+    </clipPath>
+  </defs>
+  <g id="LOGO_Main_2" data-name="LOGO Main – 2" clip-path="url(#clip-LOGO_Main_2)">
+    <text id="nfo" transform="translate(86 -27)" fill="#0e0e0e" font-size="225" font-family="RussoOne-Regular, Russo One" letter-spacing="0.05em"><tspan x="0" y="208">nfo</tspan></text>
+    <text id="Sync" transform="translate(493 -27)" fill="#fff" font-size="225" font-family="RussoOne-Regular, Russo One" letter-spacing="0.05em"><tspan x="0" y="208">Sync</tspan></text>
+    <text id="INFORMATION_DRIVEN_SOLUTIONS" data-name="INFORMATION DRIVEN SOLUTIONS" transform="translate(41 245)" fill="#fff" font-size="48" font-family="SulphurPoint-Bold, Sulphur Point" font-weight="700" letter-spacing="-0.011em" opacity="0.6"><tspan x="-671.52" y="38">INFORMATION DRIVEN SOLUTIONS</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M0,0S17.963,8.962,19.39,8.962,39.472,0,39.472,0V96.795H0Z" transform="translate(26.264 86)" fill="#0e0e0e"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-69.845 -17.222)">
+      <path id="Path_1-2" data-name="Path 1" d="M91.758,340.954v22a2.425,2.425,0,0,0,1.341,2.274c1.522.9,16.857,9.6,16.857,9.6a3.532,3.532,0,0,0,1.485.489c.733,0,2.481-.451,2.481-2.18V350.551s.238-1.328-1.666-2.305-16.807-9.064-16.807-9.064a3.761,3.761,0,0,0-1.278-.413C93.681,338.768,91.758,339.213,91.758,340.954Z" transform="translate(0 -279.362)" fill="#fff"/>
+      <path id="Path_2" data-name="Path 2" d="M554.608,340.954v22a2.425,2.425,0,0,1-1.341,2.274c-1.522.9-16.857,9.6-16.857,9.6a3.532,3.532,0,0,1-1.485.489c-.733,0-2.48-.451-2.48-2.18V350.551s-.238-1.328,1.666-2.305,16.807-9.064,16.807-9.064a3.761,3.761,0,0,1,1.278-.413C552.685,338.768,554.608,339.213,554.608,340.954Z" transform="translate(-414.678 -279.362)" fill="#fff"/>
+      <path id="Path_3" data-name="Path 3" d="M158.689,42.2,140.323,51.92a2.78,2.78,0,0,0-1.328,2.18,2.4,2.4,0,0,0,1.4,2.23c.526.326,17.865,9.421,17.865,9.421a6.081,6.081,0,0,0,1.767.645,3.037,3.037,0,0,0,1.485-.489c.714-.338,18.285-9.565,18.285-9.565a2.787,2.787,0,0,0,1.56-2.236,2.619,2.619,0,0,0-1.766-2.462c-.771-.376-18.247-9.446-18.247-9.446a2.933,2.933,0,0,0-1.168-.313A3.17,3.17,0,0,0,158.689,42.2Z" transform="translate(-44.455)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
