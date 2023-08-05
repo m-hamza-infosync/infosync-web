@@ -1844,6 +1844,7 @@ section {
   padding-right: 4px;
   transition: .3s;
   margin-left: 5px;
+  text-decoration: none !important;
 }
 .set-items-icons a i {
   color: #04809D;
